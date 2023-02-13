@@ -3,7 +3,7 @@
 I've created a few repositories of project i've been working on, as well as select tasks from my DfE Data Science Skills Bootcamp tasks that show what I've been learning. 
 
 - 🔭 I’m currently working on finishing the write-ups for my Witcher and Youtube Projects! 
-- 🌱 I’m currently learning how to build interactive and attractive data dashboards in excel.
+- 🌱 I’m currently learning how to build interactive and attractive data dashboards python.
 - 📫 How to reach me: I'm on [LinkedIn](https://www.linkedin.com/in/ryan-pitt-b9321a238/), say Hi! 
 - ⚡ Fun fact: I grow Bonsai Trees! 
 - <img src = 'https://github.com/RyanPitt100/RyanPitt100/blob/main/devin-h-p51V2hcqRhc-unsplash.jpg'>
