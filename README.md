@@ -4,7 +4,7 @@ I've created a few repositories of project i've been working on, as well as sele
 
 - 🔭 I’m currently working on finishing the write-ups for my Witcher and Youtube Projects! 
 - 🌱 I’m currently learning how to build interactive and attractive data dashboards in excel.
-- 📫 How to reach me: I'm on [LinkedIn]([url](https://www.linkedin.com/in/ryan-pitt-b9321a238/)), say Hi! 
+- 📫 How to reach me: I'm on [LinkedIn](https://www.linkedin.com/in/ryan-pitt-b9321a238/), say Hi! 
 - ⚡ Fun fact: I grow Bonsai Trees! 
 <!--
 **RyanPitt100/RyanPitt100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
