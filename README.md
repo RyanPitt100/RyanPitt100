@@ -1,4 +1,5 @@
 [Welcome]("https://github.com/RyanPitt100/RyanPitt100/blob/main/devin-h-p51V2hcqRhc-unsplash.jpg")
+<img src = 'https://github.com/RyanPitt100/RyanPitt100/blob/main/devin-h-p51V2hcqRhc-unsplash.jpg'>
 ### Hi there 👋 I'm Ryan, an aspiring Data Analyst.
 
 I've created a few repositories of project i've been working on, as well as select tasks from my DfE Data Science Skills Bootcamp tasks that show what I've been learning. 
