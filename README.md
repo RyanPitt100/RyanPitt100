@@ -1,5 +1,3 @@
-[Welcome]("https://github.com/RyanPitt100/RyanPitt100/blob/main/devin-h-p51V2hcqRhc-unsplash.jpg")
-<img src = 'https://github.com/RyanPitt100/RyanPitt100/blob/main/devin-h-p51V2hcqRhc-unsplash.jpg'>
 ### Hi there 👋 I'm Ryan, an aspiring Data Analyst.
 
 I've created a few repositories of project i've been working on, as well as select tasks from my DfE Data Science Skills Bootcamp tasks that show what I've been learning. 
@@ -8,6 +6,7 @@ I've created a few repositories of project i've been working on, as well as sele
 - 🌱 I’m currently learning how to build interactive and attractive data dashboards in excel.
 - 📫 How to reach me: I'm on [LinkedIn](https://www.linkedin.com/in/ryan-pitt-b9321a238/), say Hi! 
 - ⚡ Fun fact: I grow Bonsai Trees! 
+- <img src = 'https://github.com/RyanPitt100/RyanPitt100/blob/main/devin-h-p51V2hcqRhc-unsplash.jpg'>
 <!--
 **RyanPitt100/RyanPitt100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
