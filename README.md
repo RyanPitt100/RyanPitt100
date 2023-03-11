@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ryan, an aspiring Data Analyst.
+### Hi there 👋 I'm Ryan, a Data Analyst.
 
 I've created a few repositories of project i've been working on, as well as select tasks from my DfE Data Science Skills Bootcamp tasks that show what I've been learning. 
 
