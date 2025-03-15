@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ryan, a Lead Analyst working in the financial regtech industry. 
+### Hi there 👋 I'm Ryan, an analyst working in the financial regtech industry. 
 
 I've created a few repositories of project I've been working on, as well as my struggles learning CTFs.
 - 🔭 I’m currently working on formalising my computer science learning and filling in any gaps. 
