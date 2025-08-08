@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Ryan, an analyst working in the financial regtech industry. 
 
 I've created a few repositories of project I've been working on, as well as my struggles learning CTFs.
-- 🔭 I’m currently working on formalising my computer science learning and filling in any gaps. 
-- 🌱 I’m currently learning quantitative analysis of stocks using Python
+- 🌱 I’m currently learning quantitative analysis of stocks using Python.
 - 📫 How to reach me: I'm on [LinkedIn](https://www.linkedin.com/in/ryan-pitt-b9321a238/), say Hi! 
 - ⚡ Fun fact: I grow Bonsai Trees! 
 <img src = 'https://github.com/RyanPitt100/RyanPitt100/blob/main/devin-h-p51V2hcqRhc-unsplash.jpg'>
